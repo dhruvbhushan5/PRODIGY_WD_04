@@ -287,9 +287,7 @@ footer {
     align-items: center;
     justify-content: center;
     padding: 30px;
-
 }
-
 .form input[type="text"] {
     width: 800px;
     height: 50px;
@@ -299,17 +297,12 @@ footer {
     font-size: 16px;
     border: 1px solid white;
     margin: 10px;
-}
-
-.form input[type="text"]::placeholder {
-    color: white;
-    padding: 15px;
+    padding-left: 10px;
 }
 
 .form #input-third {
-   height: 140px;
+   height: 150px;
 }
-
 .portfolio {
     display: flex;
     align-items: center;
@@ -383,7 +376,7 @@ footer {
 }
 .personal-info{
     margin-top: 20px;
-    display: flex;
+    
 }
 .personal-info img {
    border-radius: 20px;
